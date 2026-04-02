@@ -53,3 +53,22 @@
 Screenshots from the setup process are available in the `screenshots` folder for reference.
 
 ``
+## Research Project - Topic #3: AI-Driven SEO Content Production (B2B SaaS)
+
+**Chosen topic:** #3 AI-Driven SEO Content Production
+
+**Why I chose this topic:**  
+My hands-on experience producing landing pages, copy, and lifecycle email sequences using Claude/Grok (Bakery La Familia and Overcoming) + my Microsoft Career Essentials Generative AI certification. This project lets me demonstrate using AI with strong personal judgment, not as a crutch.
+
+**Expert selection criteria:**  
+I selected 10 high-signal practitioners (not just theorists) who actively publish and implement AI-driven SEO strategies for B2B SaaS in 2026. I prioritized people with measurable case studies, recent content, and proven results in AEO/GEO, zero-click content, and generative AI content production.
+
+**Sources:**  
+See `/research/sources.md` for the full list with LinkedIn links.
+
+**Next steps in this research:**  
+- Collect recent LinkedIn posts from each expert (using Claude Code / Codex)  
+- Obtain YouTube transcripts via free API  
+- Organize everything in `/research/linkedin-posts/` and `/research/youtube-transcripts/`
+
+This research will serve as the foundation for creating a real, actionable playbook (as requested by the role).
