@@ -1,4 +1,5 @@
 # AEO Impact on SEO Performance: What We Learned Across 14M Queries (Liam Dunne, LinkedIn — Feb 11, 2026)
+https://www.linkedin.com/posts/liamdunne05_does-aeo-hurt-seo-performance-no-heres-activity-7417554920272257028-LOej/
 
 Answer Engine Optimization (AEO) isn’t theory anymore—it’s changing traffic, conversion, and even how we brief stakeholders. Here’s the full breakdown of what we saw across 14M queries and 41 client sites in Q4’25–Q1’26, plus the playbook we now run.
 
