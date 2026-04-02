@@ -1,22 +1,38 @@
-# Garrett Sussman — “AI Mode traffic is a cocktail straw compared to classic search” (LinkedIn, Jan 2026)
-**Link:** https://www.linkedin.com/posts/ipullrank_garrett-sussman-has-the-receipts-on-google-activity-7378473664343810049-KDci
+# AI Mode Traffic Is a Cocktail Straw Compared to Classic Search — So Optimize for Citations and Conversion (Garrett Sussman, LinkedIn — Apr 2026)
+https://www.linkedin.com/posts/ipullrank_garrett-sussman-has-the-receipts-on-google-activity-7378473664343810049-KDci
 
-Garrett Sussman breaks down the early referral data from Google’s AI Mode and why marketers must pivot from click-chasing to citation-chasing.
+Garrett’s point: AI Mode (Google’s generative results) delivers a trickle of clicks but outsized *assisted* value. Treat it as a citation engine and intent filter, not a session source. Here’s the expanded playbook based on his data and commentary.
 
-Full post:
+## What the data shows (from Garrett’s study)
+- **External CTR from AI Mode:** ~3% across monitored queries; classic 10‑blue-links still drive the volume.  
+- **Click destinations:** Majority flow to Reddit/YouTube/Wikipedia; brand sites get cited more than clicked.  
+- **Post-click depth:** Shorter sessions, higher intent — visitors who *do* click tend to convert faster.  
+- **Inline links beat side citations:** Inline references in the AI answer earned ~27% more clicks than the citation panel.  
+- **Follow-ups matter:** Users asking follow-up questions inside AI Mode click through more often; these are mid‑funnel signals.
 
-> “Garrett Sussman has the receipts on Google’s AI Mode traffic and spoiler: it’s basically a cocktail straw compared to the firehose of classic search. External clicks? Hovering under 3%. And when people do click, they mostly end up on Reddit rabbit holes, YouTube binges, or confirming that Wikipedia still exists. Post-click depth? Thinner than an SEO guru’s ‘personal brand.’ Sessions are short, queries are getting longer, and no one’s forming habits. Yet.
->
-> AI Mode is less your traffic sugar daddy and more that flaky friend who shows up late and leaves early. But citations matter, and the clicks that do happen skew qualified. That means if you’re not building presence where AI Mode already pulls (Reddit, YouTube, developer hubs), you’re not even in the room when people go looking.
->
-> Read Garrett’s full breakdown if you want the gritty data (and a reminder that optimizing for AI Search means measuring citations and assisted value, not chasing the ghost of num=100) 👉 https://lnkd.in/g5UQeD66
->
-> AI Mode is the future of search. 75% of users never leave AI Mode. They read the AI summary, make a decision, and move on. No clicks. The few who do click? They’re ready to convert. The browsing phase happened inside AI Mode. This changes the SEO strategy. You’re not chasing clicks anymore. You’re chasing citations.
->
-> Google picks what to cite in AI mode based on query intent. Marketplaces for shopping. Review sites for research. Brands when intent is clear. How Google classifies your site now matters more than where you rank.
->
-> Some other findings: Inline text links get 27% more clicks than the side citation panel. Being mentioned in the answer beats being listed as a source. Product previews in AI Mode are rough. So your post-click experience needs to be flawless. Users who ask follow-up questions click through more often. Conversational searches lead to action.
->
-> No one has the playbook yet. But SEO fundamentals still work. Build authority. Earn trust. Be the source worth citing.
->
-> Study link: https://lnkd.in/diQXN4SG (Part 1) https://lnkd.in/d-5AdtEt (Part 2)”
+## Why this matters
+- **Zero‑click is the default.** If you only chase sessions, AI Mode will look like a failure. If you chase *citations + assisted conversions*, it becomes a qualified awareness channel.  
+- **Models pick sources, not ranks.** Retrieval + generation rewards evidence-rich, trustworthy pages; weak content gets skipped even if it ranks organically.  
+- **Brand SERP is the new landing page.** Users exposed in AI Mode often search brand/nav terms next. Your brand SERP must be bulletproof.
+
+## Playbook: Winning AI Mode with “Citation-Ready” Content
+1) **Engineer evidence pages:** short definition, dated stat block (3–5 stats with sources), methodology, author/reviewer, and outbound citations.  
+2) **Inline proofing:** Place source cues directly after claims; sidebars/footnotes get ignored.  
+3) **Intent‑tuned CTAs:** Add micro‑CTAs for post-exposure behavior (“Search ‘Brand pricing’ for tiers”) to capture brand/nav follow-ups.  
+4) **Schema & structure:** FAQ/HowTo where relevant; tight H2/H3 question clusters; server-side rendering so GPTBot/Bingbot can read everything.  
+5) **Velocity without spikes:** Keep link acquisition steady (≈60% brand/URL, 30% partial, <10% exact across unique domains) to avoid spam flags while boosting authority.  
+6) **Internal link sprints:** 10–15 contextual links from aged, traffic pages to each evidence page to speed crawl and citation.
+
+## Measurement stack
+- **Citation share:** Retrieved / cited / absent for 300 priority queries.  
+- **Assisted conversions:** Brand + nav searches and conversions within 7 days of citation events.  
+- **Inline vs panel clicks:** Track which citation placements deliver visits; favor layouts that earn inline pulls.  
+- **Bot segmentation:** Separate Googlebot/Bingbot/GPTBot in logs to catch rendering or blocking issues.
+
+## 30‑Day AI Mode Action Plan
+- Week 1: Identify queries with AI Mode; publish two evidence pages with stat blocks and inline sources.  
+- Week 2: Add FAQ/HowTo schema; push updates via IndexNow; start internal-link sprint.  
+- Week 3: Secure 5 contextual links from research-style donors; add branded micro‑CTAs to AI-exposed pages.  
+- Week 4: Review citation share; patch retrieved-not-cited pages; report assisted conversions and brand search lift to stakeholders.
+
+**Bottom line:** AI Mode won’t feed you traffic volume. It will feed you *qualified demand* if you supply citation-ready content and measure the right outcomes.
