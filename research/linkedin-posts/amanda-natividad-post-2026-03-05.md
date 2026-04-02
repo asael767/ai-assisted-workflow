@@ -1,4 +1,5 @@
 # The Zero-Click Content Era: How to Win When AI Overviews Hoard the Clicks (Amanda Natividad, LinkedIn — Mar 5, 2026)
+https://www.linkedin.com/posts/amandanat_nobodys-clicking-anymore-and-its-not-activity-7414697334942576640-p_NS
 
 Google’s AI Overviews now keep 70–90% of informational queries inside the result. That isn’t “SEO is dead”; it’s a new content supply chain. Here’s the playbook I’m using with clients to turn zero‑click into branded demand.
 
